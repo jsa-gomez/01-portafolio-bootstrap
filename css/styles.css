@@ -1,0 +1,34 @@
+/* Global */
+html {
+    scroll-behavior: smooth;
+  }
+  
+
+/* Navbar */
+.nav-link:hover{
+    color: #198754 !important;
+}
+
+/* Main */
+.img-profile{
+    max-width: 100%;
+    width: 150px;
+    transition: 0.3s;
+}
+
+.img-profile:hover{
+    transform: scale(1.1);
+}
+
+.bg-grey{
+    background-color: #e9eef5 !important;
+}
+
+.skills-card{
+    transition: all 0.3s;
+}
+
+/* Skills */
+.skills-card:hover{
+    transform: scale(1.05);
+}
